@@ -15,6 +15,7 @@ public class Utility {
         }
         return c;
     }
+
     public static int readNumber() {
         int n;
         for (; ; ) {
@@ -28,6 +29,7 @@ public class Utility {
         }
         return n;
     }
+
     public static String readString() {
         String str = readKeyBoard(8);
         return str;
@@ -59,7 +61,6 @@ public class Utility {
             }
             break;
         }
-
         return line;
     }
 }
