@@ -1,4 +1,4 @@
-package com.ahmed.bughra;
+package com.ahmed.bughra.familyfinancialsys;
 
 import java.util.Scanner;
 
