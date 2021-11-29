@@ -4,5 +4,5 @@
 
 <p align = "center">
 
-  <img src = "https://readme-typing-svg.herokuapp.com?font=Parisienne&center=true&vCenter=true&multiline=true&height=60&lines=There+is+only+one+heroism+in+the+world%EF%BC%9A;to+see+the+world+as+it+is+and+to+love+it">
+  <img src = "https://readme-typing-svg.herokuapp.com?font=Parisienne&center=true&vCenter=true&multiline=true&height=60&lines=This+Is+My+Java+Projects%EF%BC%9A;You+Can+Learn+It+for+Develop+Your+Java+Skill.">
 </p>
